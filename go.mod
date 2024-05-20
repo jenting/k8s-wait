@@ -1,6 +1,6 @@
 module github.com/jenting/k8s-wait
 
-go 1.18
+go 1.22.3
 
 require k8s.io/apimachinery v0.29.3
 
