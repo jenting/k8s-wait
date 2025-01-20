@@ -4,7 +4,7 @@ go 1.23.0
 
 toolchain go1.23.4
 
-require k8s.io/apimachinery v0.32.0
+require k8s.io/apimachinery v0.32.1
 
 require (
 	github.com/go-logr/logr v1.4.2 // indirect
