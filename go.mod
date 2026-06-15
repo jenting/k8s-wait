@@ -2,7 +2,7 @@ module github.com/jenting/k8s-wait
 
 go 1.26.0
 
-require k8s.io/apimachinery v0.36.1
+require k8s.io/apimachinery v0.36.2
 
 require (
 	github.com/go-logr/logr v1.4.3 // indirect
